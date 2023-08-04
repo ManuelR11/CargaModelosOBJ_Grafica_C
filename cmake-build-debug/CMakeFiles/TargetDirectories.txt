@@ -1,0 +1,3 @@
+C:/Users/rodas/Desktop/CODING11/Repoitorios GIT/CargaModelosOBJ_Grafica_C/cmake-build-debug/CMakeFiles/CargaModelosOBJ_Grafica_C.dir
+C:/Users/rodas/Desktop/CODING11/Repoitorios GIT/CargaModelosOBJ_Grafica_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rodas/Desktop/CODING11/Repoitorios GIT/CargaModelosOBJ_Grafica_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
